@@ -1,0 +1,42 @@
+@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url('./fonts/google-sans-hebrew-400-normal.woff2') format('woff2');unicode-range:U+0590-05FF,U+FB1D-FB4F}
+@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url('./fonts/google-sans-hebrew-500-normal.woff2') format('woff2');unicode-range:U+0590-05FF,U+FB1D-FB4F}
+@font-face{font-family:'Google Sans';font-style:normal;font-weight:700;src:url('./fonts/google-sans-hebrew-700-normal.woff2') format('woff2');unicode-range:U+0590-05FF,U+FB1D-FB4F}
+@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url('./fonts/google-sans-latin-400-normal.woff2') format('woff2');unicode-range:U+0000-00FF,U+2000-206F,U+20AC}
+@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url('./fonts/google-sans-latin-500-normal.woff2') format('woff2');unicode-range:U+0000-00FF,U+2000-206F,U+20AC}
+@font-face{font-family:'Google Sans';font-style:normal;font-weight:700;src:url('./fonts/google-sans-latin-700-normal.woff2') format('woff2');unicode-range:U+0000-00FF,U+2000-206F,U+20AC}
+*{box-sizing:border-box}
+body{margin:0;background:#fbfaf9;color:#1f1c1d;font-family:'Google Sans',sans-serif;-webkit-font-smoothing:antialiased}
+.wrap{max-width:680px;margin:0 auto;padding:28px 16px 40px}
+header{text-align:center;margin-bottom:26px}
+h1{font-size:27px;line-height:36px;font-weight:700;margin:0 0 8px}
+.fact{color:#73a89a;font-weight:500;font-size:15px;margin:0 0 12px}
+.intro{font-size:15px;line-height:24px;color:#585254;margin:0}
+h2{font-size:20px;font-weight:700;margin:26px 0 10px}
+.filter-label{font-size:12px;color:#585254;margin-bottom:6px}
+.choices{display:flex;flex-wrap:wrap;gap:8px}
+.choices button{font-family:inherit;font-size:14px;padding:7px 14px;border-radius:10px;border:1px solid #eae9ea;background:#fff;color:#1f1c1d;cursor:pointer}
+.choices button.sel{background:#73a89a;border-color:#73a89a;color:#fff;font-weight:500}
+.leads{display:flex;flex-direction:column;gap:10px;margin-top:12px}
+.lead{border:1px solid #eae9ea;border-radius:14px;padding:12px 14px 14px;display:flex;flex-direction:column;gap:8px;background:#fff}
+.lead-logos{display:flex;justify-content:flex-start;align-items:center;gap:8px;min-height:18px}
+.lead-logos a{display:inline-flex;align-items:center}
+.lead-logos img{height:12px;width:auto;display:block;border-radius:3px}
+.lead-logos a.chip-col img{height:14px}
+.lead-names-row{display:flex;align-items:center;justify-content:space-between;gap:8px}
+.lead-side{flex:1;display:flex;flex-direction:column;gap:1px;text-align:center;align-items:center}
+.lead-role{font-size:11px;color:#585254}
+.lead-surname{font-size:19px;font-weight:700;line-height:26px}
+.lead-city{font-size:12px;color:#585254;line-height:17px}
+.lead-meta{color:#585254;font-size:12px;line-height:18px;text-align:center}
+.lead-status{border-top:1px solid #eae9ea;padding-top:8px}
+.empty{color:#585254;font-size:13px;padding:12px 0}
+.caption{font-size:12px;color:#585254;margin-top:10px}
+.howto{margin:0;padding-inline-start:22px;font-size:15px;line-height:26px;color:#1f1c1d}
+.callout{background:#fdf6e9;border-radius:12px;padding:14px 16px;font-size:14px;line-height:22px}
+.callout b{display:block;margin-bottom:4px}
+.callout p{margin:0;color:#585254}
+.facts{margin:14px 0 0;display:flex;flex-direction:column;gap:8px}
+.facts div{display:flex;gap:10px;font-size:14px;line-height:22px}
+.facts dt{font-weight:700;flex:none}
+.facts dd{margin:0;color:#585254}
+footer{text-align:center;color:#585254;font-size:13px;margin-top:32px}
