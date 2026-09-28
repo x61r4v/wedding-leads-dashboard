@@ -1,5 +1,188 @@
 [
   {
+    "n": 63,
+    "groom": "כפיף",
+    "bride": "קויפמן",
+    "groomCity": "",
+    "brideCity": "מוסקבה",
+    "date": "28.9 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      }
+    ],
+    "colid": "21131"
+  },
+  {
+    "n": 64,
+    "groom": "איטח",
+    "bride": "שפטר",
+    "groomCity": "אלעד",
+    "brideCity": "כפר עציון",
+    "date": "28.9 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אינפו",
+        "url": "https://chabad.info/mazal_tov/1328263/"
+      }
+    ]
+  },
+  {
+    "n": 65,
+    "groom": "נאבול",
+    "bride": "לסאוו",
+    "groomCity": "רחובות",
+    "brideCity": "כפר חב״ד",
+    "date": "28.9 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אינפו",
+        "url": "https://chabad.info/mazal_tov/1328261/"
+      }
+    ]
+  },
+  {
+    "n": 66,
+    "groom": "מרטון",
+    "bride": "משי-זהב",
+    "groomCity": "צפת",
+    "brideCity": "קריית גת",
+    "date": "28.9 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אינפו",
+        "url": "https://chabad.info/mazal_tov/1326371/"
+      }
+    ]
+  },
+  {
+    "n": 67,
+    "groom": "קוקה",
+    "bride": "שחמורוב",
+    "groomCity": "תל אביב",
+    "brideCity": "אור יהודה",
+    "date": "28.9 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אינפו",
+        "url": "https://chabad.info/mazal_tov/1324916/"
+      }
+    ]
+  },
+  {
+    "n": 68,
+    "groom": "טובול",
+    "bride": "רוזנפלד",
+    "groomCity": "רחובות",
+    "brideCity": "ירושלים",
+    "date": "28.9 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אינפו",
+        "url": "https://chabad.info/mazal_tov/1324915/"
+      }
+    ]
+  },
+  {
+    "n": 69,
+    "groom": "כהן",
+    "bride": "ששון",
+    "groomCity": "פתח תקווה",
+    "brideCity": "רחובות",
+    "date": "28.9 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אינפו",
+        "url": "https://chabad.info/mazal_tov/1324914/"
+      }
+    ]
+  },
+  {
+    "n": 70,
+    "groom": "וורצ׳וב",
+    "bride": "וילהלם",
+    "groomCity": "צפת",
+    "brideCity": "בנגקוק, תאילנד",
+    "date": "28.9 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אינפו",
+        "url": "https://chabad.info/mazal_tov/1324913/"
+      }
+    ]
+  },
+  {
+    "n": 71,
+    "groom": "מישולובין",
+    "bride": "לבקיבקר",
+    "groomCity": "ביתר",
+    "brideCity": "ערד",
+    "date": "28.9 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אינפו",
+        "url": "https://chabad.info/mazal_tov/1324054/"
+      }
+    ]
+  },
+  {
+    "n": 72,
+    "groom": "מיפעי",
+    "bride": "מדר",
+    "groomCity": "מושב ברקת",
+    "brideCity": "אופקים",
+    "date": "28.9 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אינפו",
+        "url": "https://chabad.info/mazal_tov/1323431/"
+      }
+    ]
+  },
+  {
+    "n": 73,
+    "groom": "מצליח",
+    "bride": "ארפי",
+    "groomCity": "אופקים",
+    "brideCity": "ביתר עילית",
+    "date": "28.9 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אינפו",
+        "url": "https://chabad.info/mazal_tov/1323427/"
+      }
+    ]
+  },
+  {
+    "n": 74,
+    "groom": "רייצס",
+    "bride": "סוקנויק",
+    "groomCity": "קרית גת",
+    "brideCity": "כפר חב״ד",
+    "date": "28.9 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אינפו",
+        "url": "https://chabad.info/mazal_tov/1322001/"
+      }
+    ]
+  },
+  {
+    "n": 75,
+    "groom": "קיז׳נר",
+    "bride": "גלייזר",
+    "groomCity": "עמנואל",
+    "brideCity": "לוד",
+    "date": "28.9 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אינפו",
+        "url": "https://chabad.info/mazal_tov/1319074/"
+      }
+    ]
+  },
+  {
     "n": 1,
     "date": "25.9 · לפני יומיים",
     "sources": [
