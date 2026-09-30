@@ -1,5 +1,61 @@
 [
  {
+  "n": 78,
+  "groom": "זיידס",
+  "bride": "פרופ",
+  "groomCity": "אופקים",
+  "brideCity": "פתח תקווה",
+  "date": "30.9 · סריקה יומית",
+  "sources": [
+   {
+    "label": "חב״ד אונליין",
+    "url": "https://col.org.il/mazlat"
+   }
+  ]
+ },
+ {
+  "n": 79,
+  "groom": "בקרמן",
+  "bride": "הענדל",
+  "groomCity": "צפת",
+  "brideCity": "באר שבע",
+  "date": "30.9 · סריקה יומית",
+  "sources": [
+   {
+    "label": "חב״ד אינפו",
+    "url": "https://chabad.info/mazal_tov/1316494/"
+   }
+  ]
+ },
+ {
+  "n": 80,
+  "groom": "חכימיאן",
+  "bride": "בן אור",
+  "groomCity": "ביתר עילית",
+  "brideCity": "צפת",
+  "date": "30.9 · סריקה יומית",
+  "sources": [
+   {
+    "label": "חב״ד אינפו",
+    "url": "https://chabad.info/mazal_tov/1314325/"
+   }
+  ]
+ },
+ {
+  "n": 81,
+  "groom": "גושן",
+  "bride": "גנזמן",
+  "groomCity": "נחלת הר חב״ד",
+  "brideCity": "נחלת הר חב״ד",
+  "date": "30.9 · סריקה יומית",
+  "sources": [
+   {
+    "label": "חב״ד אינפו",
+    "url": "https://chabad.info/mazal_tov/1312222/"
+   }
+  ]
+ },
+ {
   "n": 76,
   "groom": "אפרת",
   "bride": "טולוצ'ינסקי",
