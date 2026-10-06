@@ -411,21 +411,6 @@
   "brideCity": "אופקים"
  },
  {
-  "n": 6,
-  "date": "24.9 · לפני 3 ימים",
-  "sources": [
-   {
-    "label": "חב״ד אונליין",
-    "url": "https://col.org.il/mazlat"
-   }
-  ],
-  "colid": "21135",
-  "groom": "רוקה",
-  "bride": "סופר",
-  "groomCity": "",
-  "brideCity": ""
- },
- {
   "n": 7,
   "date": "23.9 · לפני 4 ימים",
   "sources": [
@@ -760,21 +745,6 @@
   "brideCity": "מנחמיה"
  },
  {
-  "n": 31,
-  "date": "כ' אלול ה׳תשפ״ו",
-  "sources": [
-   {
-    "label": "חב״ד אונליין",
-    "url": "https://col.org.il/mazlat"
-   }
-  ],
-  "colid": "21105",
-  "groom": "אלמקייס",
-  "bride": "לוטאטי",
-  "groomCity": "",
-  "brideCity": ""
- },
- {
   "n": 32,
   "date": "כ' אלול ה׳תשפ״ו",
   "sources": [
@@ -788,21 +758,6 @@
   "bride": "וויכנין",
   "groomCity": "ז'יטומיר-אשקלון",
   "brideCity": "ירושלים"
- },
- {
-  "n": 33,
-  "date": "י\"ט אלול ה׳תשפ״ו",
-  "sources": [
-   {
-    "label": "חב״ד אונליין",
-    "url": "https://col.org.il/mazlat"
-   }
-  ],
-  "colid": "21102",
-  "groom": "דייס",
-  "bride": "מטוסוב",
-  "groomCity": "",
-  "brideCity": ""
  },
  {
   "n": 34,
@@ -897,21 +852,6 @@
   "bride": "אלטס",
   "groomCity": "כפר חב''ד",
   "brideCity": "כפר יונה"
- },
- {
-  "n": 40,
-  "date": "י\"ז אלול ה׳תשפ״ו",
-  "sources": [
-   {
-    "label": "חב״ד אונליין",
-    "url": "https://col.org.il/mazlat"
-   }
-  ],
-  "colid": "21094",
-  "groom": "כהן",
-  "bride": "לוי",
-  "groomCity": "",
-  "brideCity": ""
  },
  {
   "n": 41,
