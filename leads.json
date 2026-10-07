@@ -1,5 +1,65 @@
 [
  {
+  "n": 91,
+  "groom": "מימון",
+  "bride": "ממן",
+  "groomCity": "נחל״ה",
+  "brideCity": "ראשון לציון",
+  "date": "7.10 · סריקה יומית",
+  "sources": [
+   {
+    "label": "חב״ד אונליין",
+    "url": "https://col.org.il/mazlat"
+   }
+  ]
+ },
+ {
+  "n": 90,
+  "groom": "נקי",
+  "bride": "לעוויטין",
+  "groomCity": "הרצליה",
+  "brideCity": "פאלם ביטש, פלורידה",
+  "date": "7.10 · סריקה יומית",
+  "sources": [
+   {
+    "label": "חב״ד אונליין",
+    "url": "https://col.org.il/mazlat"
+   },
+   {
+    "label": "חב״ד אינפו",
+    "url": "https://chabad.info/mazal_tov/1372639/"
+   }
+  ]
+ },
+ {
+  "n": 89,
+  "groom": "נמירובסקי",
+  "bride": "ברגר",
+  "groomCity": "ביתר עילית",
+  "brideCity": "אלעד",
+  "date": "7.10 · סריקה יומית",
+  "sources": [
+   {
+    "label": "חב״ד אונליין",
+    "url": "https://col.org.il/mazlat"
+   }
+  ]
+ },
+ {
+  "n": 88,
+  "groom": "גת",
+  "bride": "קירשנבוים",
+  "groomCity": "כפר חב״ד",
+  "brideCity": "גני איילון",
+  "date": "7.10 · סריקה יומית",
+  "sources": [
+   {
+    "label": "חב״ד אונליין",
+    "url": "https://col.org.il/mazlat"
+   }
+  ]
+ },
+ {
   "n": 87,
   "groom": "אלישביץ",
   "bride": "לנדאו",
