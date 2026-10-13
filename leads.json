@@ -1,5 +1,41 @@
 [
  {
+  "n": 97,
+  "groom": "לוי",
+  "bride": "יעקובי",
+  "groomCity": "ראשון לציון",
+  "brideCity": "לוד",
+  "date": "13.10 · סריקה יומית",
+  "sources": [
+   {
+    "label": "חב״ד אונליין",
+    "url": "https://col.org.il/mazlat"
+   },
+   {
+    "label": "חב״ד אינפו",
+    "url": "https://chabad.info/mazal_tov/1374451/"
+   }
+  ]
+ },
+ {
+  "n": 96,
+  "groom": "טרבניק",
+  "bride": "ליפשיץ",
+  "groomCity": "אולם, גרמניה",
+  "brideCity": "כפר אחים",
+  "date": "13.10 · סריקה יומית",
+  "sources": [
+   {
+    "label": "חב״ד אונליין",
+    "url": "https://col.org.il/mazlat"
+   },
+   {
+    "label": "חב״ד אינפו",
+    "url": "https://chabad.info/mazal_tov/1374452/"
+   }
+  ]
+ },
+ {
   "n": 95,
   "groom": "לביאני",
   "bride": "ליפשיץ",
