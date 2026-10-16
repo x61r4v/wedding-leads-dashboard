@@ -1,5 +1,55 @@
 [
  {
+  "n": 100,
+  "groom": "שטיינברגר",
+  "bride": "גנדל",
+  "groomCity": "כפר חב״ד",
+  "brideCity": "עמנואל",
+  "date": "16.10 · סריקה יומית",
+  "sources": [
+   {
+    "label": "חב״ד אונליין",
+    "url": "https://col.org.il/mazlat"
+   },
+   {
+    "label": "חב״ד אינפו",
+    "url": "https://chabad.info/mazal_tov/1375043/"
+   }
+  ]
+ },
+ {
+  "n": 99,
+  "groom": "לוי",
+  "bride": "זרוק",
+  "groomCity": "הרצליה",
+  "brideCity": "קריית מלאכי",
+  "date": "16.10 · סריקה יומית",
+  "sources": [
+   {
+    "label": "חב״ד אונליין",
+    "url": "https://col.org.il/mazlat"
+   },
+   {
+    "label": "חב״ד אינפו",
+    "url": "https://chabad.info/mazal_tov/1374980/"
+   }
+  ]
+ },
+ {
+  "n": 98,
+  "groom": "תמם",
+  "bride": "פלטה",
+  "groomCity": "צפת",
+  "brideCity": "צפת",
+  "date": "16.10 · סריקה יומית",
+  "sources": [
+   {
+    "label": "חב״ד אונליין",
+    "url": "https://col.org.il/mazlat"
+   }
+  ]
+ },
+ {
   "n": 97,
   "groom": "לוי",
   "bride": "יעקובי",
