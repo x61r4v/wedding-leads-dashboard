@@ -1,5 +1,23 @@
 [
   {
+    "n": 101,
+    "groom": "שישא",
+    "bride": "אברהמי",
+    "groomCity": "בית שמש",
+    "brideCity": "נוף הגליל",
+    "date": "19.10 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      },
+      {
+        "label": "חב״ד אינפו",
+        "url": "https://chabad.info/mazal_tov/1375783/"
+      }
+    ]
+  },
+  {
     "n": 100,
     "groom": "שטיינברגר",
     "bride": "גנדל",
