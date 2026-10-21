@@ -1,5 +1,59 @@
 [
   {
+    "n": 104,
+    "groom": "קפלן",
+    "bride": "וישצקי",
+    "groomCity": "סתריה",
+    "brideCity": "באזל, שוויץ",
+    "date": "20.10 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      },
+      {
+        "label": "חב״ד אינפו",
+        "url": "https://chabad.info/mazal_tov/1375954/"
+      }
+    ]
+  },
+  {
+    "n": 103,
+    "groom": "ברוד",
+    "bride": "אייזנשטיין",
+    "groomCity": "כפר חב״ד",
+    "brideCity": "מגדל העמק",
+    "date": "20.10 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      },
+      {
+        "label": "חב״ד אינפו",
+        "url": "https://chabad.info/mazal_tov/1375916/"
+      }
+    ]
+  },
+  {
+    "n": 102,
+    "groom": "פלדמן",
+    "bride": "שיינקר",
+    "groomCity": "כפר חב״ד",
+    "brideCity": "מוסקבה",
+    "date": "20.10 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      },
+      {
+        "label": "חב״ד אינפו",
+        "url": "https://chabad.info/mazal_tov/1375915/"
+      }
+    ]
+  },
+  {
     "n": 101,
     "groom": "שישא",
     "bride": "אברהמי",
