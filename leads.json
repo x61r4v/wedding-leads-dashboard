@@ -1,5 +1,33 @@
 [
   {
+    "n": 106,
+    "groom": "מרקוביץ'",
+    "bride": "דמיכובסקי",
+    "groomCity": "קייב, אוקראינה",
+    "brideCity": "ירושלים",
+    "date": "22.10 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      }
+    ]
+  },
+  {
+    "n": 105,
+    "groom": "מלוב",
+    "bride": "הרטמן",
+    "groomCity": "ביתר עילית",
+    "brideCity": "אודסה, אוקראינה",
+    "date": "22.10 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      }
+    ]
+  },
+  {
     "n": 104,
     "groom": "קפלן",
     "bride": "וישצקי",
