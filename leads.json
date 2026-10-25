@@ -1,5 +1,19 @@
 [
   {
+    "n": 108,
+    "groom": "שיף",
+    "bride": "הרשקופ",
+    "groomCity": "ירושלים",
+    "brideCity": "אחיסמך",
+    "date": "25.10 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      }
+    ]
+  },
+  {
     "n": 107,
     "groom": "ישראל",
     "bride": "נדג'ר",
@@ -7,6 +21,10 @@
     "brideCity": "אשקלון",
     "date": "23.10 · סריקה יומית",
     "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      },
       {
         "label": "חב״ד אינפו",
         "url": "https://chabad.info/mazal_tov/1376487/"
