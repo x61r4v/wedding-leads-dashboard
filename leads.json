@@ -1,5 +1,19 @@
 [
   {
+    "n": 109,
+    "groom": "קולט",
+    "bride": "חיל",
+    "groomCity": "קרית אתא",
+    "brideCity": "לוד",
+    "date": "27.10 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      }
+    ]
+  },
+  {
     "n": 108,
     "groom": "שיף",
     "bride": "הרשקופ",
