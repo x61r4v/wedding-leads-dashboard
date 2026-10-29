@@ -1,5 +1,105 @@
 [
   {
+    "n": 115,
+    "groom": "פיזם",
+    "bride": "ליפסקר",
+    "groomCity": "",
+    "brideCity": "אחיסמך",
+    "date": "29.10 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      }
+    ]
+  },
+  {
+    "n": 114,
+    "groom": "בן ציון",
+    "bride": "דיין",
+    "groomCity": "נחליאל",
+    "brideCity": "ירושלים",
+    "date": "29.10 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      },
+      {
+        "label": "חב״ד אינפו",
+        "url": "https://chabad.info/mazal_tov/1377694/"
+      }
+    ]
+  },
+  {
+    "n": 113,
+    "groom": "גדסי",
+    "bride": "חסון",
+    "groomCity": "לוד",
+    "brideCity": "קרית שמואל",
+    "date": "29.10 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      },
+      {
+        "label": "חב״ד אינפו",
+        "url": "https://chabad.info/mazal_tov/1377693/"
+      }
+    ]
+  },
+  {
+    "n": 112,
+    "groom": "דובינסקי",
+    "bride": "מלכי",
+    "groomCity": "חיפה",
+    "brideCity": "חולון",
+    "date": "29.10 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      },
+      {
+        "label": "חב״ד אינפו",
+        "url": "https://chabad.info/mazal_tov/1377692/"
+      }
+    ]
+  },
+  {
+    "n": 111,
+    "groom": "נחשון",
+    "bride": "אלישביץ",
+    "groomCity": "אפרת",
+    "brideCity": "קרית גת",
+    "date": "29.10 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      },
+      {
+        "label": "חב״ד אינפו",
+        "url": "https://chabad.info/mazal_tov/1377690/"
+      }
+    ]
+  },
+  {
+    "n": 110,
+    "groom": "גמליאל",
+    "bride": "לדרמן",
+    "groomCity": "קרית מלאכי",
+    "brideCity": "רחובות",
+    "date": "29.10 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      }
+    ]
+  },
+  {
     "n": 109,
     "groom": "קולט",
     "bride": "חיל",
