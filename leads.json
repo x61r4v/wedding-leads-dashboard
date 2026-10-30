@@ -1,5 +1,33 @@
 [
   {
+    "n": 117,
+    "groom": "וובר",
+    "bride": "מוזיקנט",
+    "groomCity": "קרית אתא",
+    "brideCity": "כפר חב״ד",
+    "date": "30.10 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      }
+    ]
+  },
+  {
+    "n": 116,
+    "groom": "דמיחובסקי",
+    "bride": "בלוי",
+    "groomCity": "כפר חב״ד",
+    "brideCity": "ירושלים",
+    "date": "30.10 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      }
+    ]
+  },
+  {
     "n": 115,
     "groom": "פיזם",
     "bride": "ליפסקר",
