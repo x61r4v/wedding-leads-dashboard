@@ -1,5 +1,47 @@
 [
   {
+    "n": 120,
+    "groom": "דהן",
+    "bride": "זבולון",
+    "groomCity": "בית שמש",
+    "brideCity": "ברינואה, צרפת",
+    "date": "3.11 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      }
+    ]
+  },
+  {
+    "n": 119,
+    "groom": "גולדשמיד",
+    "bride": "ביסטריצקי",
+    "groomCity": "כפר חב״ד",
+    "brideCity": "צפת",
+    "date": "3.11 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      }
+    ]
+  },
+  {
+    "n": 118,
+    "groom": "וילהלם",
+    "bride": "הלפרין",
+    "groomCity": "נתניה",
+    "brideCity": "מירון",
+    "date": "3.11 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      }
+    ]
+  },
+  {
     "n": 117,
     "groom": "וובר",
     "bride": "מוזיקנט",
