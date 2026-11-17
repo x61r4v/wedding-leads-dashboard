@@ -1,5 +1,37 @@
 [
   {
+    "n": 132,
+    "groom": "מרינובסקי",
+    "bride": "רוזן",
+    "groomCity": "כפר ורדים",
+    "brideCity": "כפר חב״ד",
+    "date": "17.11 · סריקה יומית",
+    "sources": [
+      {
+        "label": "chabad.info",
+        "url": "https://chabad.info/mazal_tov/1384127/"
+      }
+    ]
+  },
+  {
+    "n": 131,
+    "groom": "גרליק",
+    "bride": "פרידמן",
+    "groomCity": "נהריה",
+    "brideCity": "כפר חב״ד",
+    "date": "17.11 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      },
+      {
+        "label": "chabad.info",
+        "url": "https://chabad.info/mazal_tov/1384084/"
+      }
+    ]
+  },
+  {
     "n": 130,
     "groom": "בן דוד",
     "bride": "ורון",
