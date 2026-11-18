@@ -1,5 +1,33 @@
 [
   {
+    "n": 134,
+    "groom": "לוי",
+    "bride": "משי-זהב",
+    "groomCity": "קריית גת",
+    "brideCity": "ירושלים",
+    "date": "18.11 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      }
+    ]
+  },
+  {
+    "n": 133,
+    "groom": "קליימן",
+    "bride": "ורטמן",
+    "groomCity": "כפר תפוח ונעלה",
+    "brideCity": "נוף הגליל",
+    "date": "18.11 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      }
+    ]
+  },
+  {
     "n": 132,
     "groom": "מרינובסקי",
     "bride": "רוזן",
@@ -7,6 +35,10 @@
     "brideCity": "כפר חב״ד",
     "date": "17.11 · סריקה יומית",
     "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      },
       {
         "label": "chabad.info",
         "url": "https://chabad.info/mazal_tov/1384127/"
