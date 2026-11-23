@@ -1,5 +1,37 @@
 [
   {
+    "n": 139,
+    "groom": "דרורי",
+    "bride": "אהרונוביץ'",
+    "groomCity": "נתניה",
+    "brideCity": "חנתון",
+    "date": "23.11 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      },
+      {
+        "label": "chabad.info",
+        "url": "https://chabad.info/mazal_tov/1385660/"
+      }
+    ]
+  },
+  {
+    "n": 138,
+    "groom": "זיגלבוים",
+    "bride": "פרידמן",
+    "groomCity": "רמת גן",
+    "brideCity": "ברוקלין, ניו יורק",
+    "date": "23.11 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      }
+    ]
+  },
+  {
     "n": 137,
     "groom": "גולדברג",
     "bride": "טובול",
@@ -15,7 +47,7 @@
   },
   {
     "n": 136,
-    "groom": "דינה",
+    "groom": "סטמבלר",
     "bride": "וואלף",
     "groomCity": "",
     "brideCity": "אשקלון",
