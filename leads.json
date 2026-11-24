@@ -1,5 +1,33 @@
 [
   {
+    "n": 141,
+    "groom": "פויאק",
+    "bride": "איתן",
+    "groomCity": "מעלה אפרים",
+    "brideCity": "יצהר",
+    "date": "24.11 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      }
+    ]
+  },
+  {
+    "n": 140,
+    "groom": "חנונו",
+    "bride": "פרוצ'נסקי",
+    "groomCity": "כפר חב״ד",
+    "brideCity": "ראשון לציון",
+    "date": "24.11 · סריקה יומית",
+    "sources": [
+      {
+        "label": "חב״ד אונליין",
+        "url": "https://col.org.il/mazlat"
+      }
+    ]
+  },
+  {
     "n": 139,
     "groom": "דרורי",
     "bride": "אהרונוביץ'",
